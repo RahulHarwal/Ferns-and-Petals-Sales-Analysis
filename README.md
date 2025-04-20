@@ -1,1 +1,2 @@
 # Ferns-and-Petals-Sales-Analysis
+This project provides an interactive sales analysis dashboard for FNP (Ferns N Petals), built to visualize key business metrics from 1,000 orders totaling ₹35.2 lakhs in revenue. It highlights performance by occasion, product category, time, and region, helping identify top-selling products, peak sales periods, and high-revenue cities. Insights include customer behavior patterns, best-performing occasions like Anniversary and Holi, and actionable trends for strategic marketing and growth.
